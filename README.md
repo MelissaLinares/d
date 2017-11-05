@@ -2,7 +2,7 @@
 
 | | |
 |:-----|:-----|
-|Model Version| |
+|Model Version| 3.7|
 |Point of contact | |
 | | |
 | MAP AND GRIDS | |
