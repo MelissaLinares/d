@@ -74,5 +74,5 @@ There are known issues with snow related-products (e.g., snow temperature, snow 
 
 * Kumar , S.V., C.D. Peters-Lidard, Y. Tian, P.R. Houser, J. Geiger, S. Olden, L. Lighty, J.L.Eastman, B. Doty, P. Dirmeyer, J. Adams, K. Mitchell, E. F. Wood and J. Sheffield, 2006: Land Information System - An Interoperable Framework for High Resolution Land Surface Modeling. Environmental Modelling & Software, Vol.21, 1402-1415. DOI:10.1016/j.envsoft.2005.07.004
 
-* Nykanen, D.K. and D. Harris, 2003: Orographic influences on the multiscale statistical properties of precipitation, J. Geophys. Res., 108(D8),8381,doi:10.1029/2001JD001518.
+* Nykanen, D.K. and D. Harris, 2003: Orographic influences on the multiscale statistical properties of precipitation, J. Geophys. Res., 108(D8),8381,doi:10.1029/2001JD001518..
 
