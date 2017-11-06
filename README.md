@@ -6,7 +6,7 @@
 |Point of contact |xavier Fettweis <xavier.fettweis@ulg.ac.be> |
 | | |
 | MAP AND GRIDS | |
-| Map projection |  |
+| Map projection | Stereographic Oblique |
 | Number of vertical layers |40 |
 | Horizontal grid spacing | 20 km |
 | Static geographic fields | |
