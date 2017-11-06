@@ -1,6 +1,6 @@
 ## Model information
 
-|The Model Atmospheric Regional MAR|
+|The Model Atmospheric Regional MAR||
 |:-----|:-----|
 |Model Version| 3.7|
 |Point of contact |xavier Fettweis <xavier.fettweis@ulg.ac.be> |
