@@ -19,7 +19,7 @@
 | Nesting | |
 | | |
 | FORCING STRATEGY | |
-| Boundary conditions |  |
+| Boundary conditions |forced using ERA-INTERIM  |
 | Sea surface temperature | |
 | Initializiation |  | 
 | Runs starting time | |
