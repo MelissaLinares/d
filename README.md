@@ -1,6 +1,6 @@
 ## Model information
 
-| | |
+| MAR| |
 |:-----|:-----|
 |Model Version| 3.7|
 |Point of contact |xavier Fettweis <xavier.fettweis@ulg.ac.be> |
