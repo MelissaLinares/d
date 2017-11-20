@@ -3,24 +3,27 @@
 |The Model Atmospheric Regional MAR||
 |:-----|:-----|
 |Model Version| 3.7|
-|Point of contact |xavier Fettweis <xavier.fettweis@ulg.ac.be> |
+|Point of contact |Marco Tedesco (LDEO, Columbia University):  cryocity@gmail.com 
+Xavier Fettweis (University of Liège, Belgium):  xavier.fettweis@ulg.ac.be
+Hubert Gallée (LGGE, Grenoble): hubert.gallee@univ-grenoble-alpes.fr 
+MAR website:  http://mar.cnrs.fr/ |
 | | |
 | MAP AND GRIDS | |
 | Map projection | Stereographic Oblique |
-| Number of vertical layers |40 |
-| Horizontal grid spacing | 20 km |
-| Static geographic fields | |
+| Number of vertical layers |42 |
+| Horizontal grid spacing | 12 km |
+| Static geographic fields |ETOPO2 topography |
 | | |
 | TIMING | |
 | Simulation period |  |
 | Time step | |
 | | |
 | NESTING STRATEGY | | 
-| Nesting | |
+| Nesting |MAR is forced at the lateral boundaries with reanalysis data (e.g. ECMWF ERA-Interim reanalysis) (one-way nesting).   A relaxation zone of 10-15 grid cells is specified over which winds are nudged towards forcing data.   MAR employs a single domain with a single resolution; there is currently not an option for including a nested subdomain. |
 | | |
 | FORCING STRATEGY | |
-| Boundary conditions |forced using ERA-INTERIM  |
-| Sea surface temperature | |
+| Boundary conditions |Forced 6-hourly by European Center for Medium Range Weather Forecasting (ECMWF) ERA-Interim reanalysis at the lateral boundaries and ocean surface (sea surface temperatures and sea ice concentration).  Forcing fields are temperature, wind speed and direction and specific humidity, interpolated to MAR levels.  |
+| Sea surface temperature |Prescribed from reanalysis forcing (in this case ERA-Interim reanalysis). |
 | Initializiation |  | 
 | Runs starting time | |
 | Runs duration | | 
@@ -31,7 +34,7 @@
 | Longwave radiation | |
 | Cumulus parameterization | |
 | Microphysics | | 
-| Land surface model |SISVAT (Soil Ice Snow Vegetation Atmosphere Transfer) | 
+| Land surface model |Soil, Ice Snow Vegetation Atmosphere Transfer scheme  (SISVAT; De Ridder and Gallée, 1998)| 
 | PBL | |
 
 
