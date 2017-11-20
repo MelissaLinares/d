@@ -3,7 +3,7 @@
 |The Model Atmospheric Regional MAR||
 |:-----|:-----|
 |Model Version| 3.7|
-|Point of contact |Marco Tedesco cryocity@gmail.com , Xavier Fettweis xavier.fettweis@ulg.ac.be, Hubert Gallée hubert.gallee@univ-grenoble-alpes.fr MAR website:  http://mar.cnrs.fr/ |
+|Point of contact |Marco Tedesco: cryocity@gmail.com , Xavier Fettweis: xavier.fettweis@ulg.ac.be, Hubert Gallée: hubert.gallee@univ-grenoble-alpes.fr, MAR website:  http://mar.cnrs.fr/ |
 | | |
 | MAP AND GRIDS | |
 | Map projection | Stereographic Oblique |
